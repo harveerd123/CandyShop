@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "r6qeaqkwgRjslA0u2cDYD9Eax+5mm3gp8rqfQP6+TBWEFzzYRU/D69v8k9q6hzBDeS3Yz9xEWATfBqgPz74ZAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harveer.dole\\source\\repos\\CandyShop\\CandyShop\\CandyShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harveer.dole\\.nuget\\packages\\microsoft.data.sqlite\\9.0.1\\microsoft.data.sqlite.9.0.1.nupkg.sha512",
+    "C:\\Users\\harveer.dole\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.1\\microsoft.data.sqlite.core.9.0.1.nupkg.sha512",
+    "C:\\Users\\harveer.dole\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512",
+    "C:\\Users\\harveer.dole\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\harveer.dole\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\harveer.dole\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\harveer.dole\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\harveer.dole\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

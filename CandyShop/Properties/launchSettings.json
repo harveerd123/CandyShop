@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CandyShop": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\harveer.dole\\source\\repos\\CandyShop\\CandyShop\\"
+    }
+  }
+}
